@@ -1,5 +1,6 @@
 {
     "name": "niko/first",
+    "version": "1.0.0",
     "description": "A first niko's package",
     "require": {
         "php": ">=5.3.0"        
